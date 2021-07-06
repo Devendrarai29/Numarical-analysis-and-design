@@ -1,2 +1,2 @@
-# hello-world
-first program in c 
+# NUmarical analysis and design
+
