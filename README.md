@@ -1,2 +1,2 @@
-# NUmarical analysis and design
+# Numarical analysis and design
 
